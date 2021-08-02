@@ -20,3 +20,6 @@ Pour y parvenir, trois composants sont nécessaires :
 Le **Machine Learning** peut être défini comme étant une technologie d’intelligence artificielle permettant aux machines d’apprendre sans avoir été au préalablement programmées spécifiquement à cet effet. Le Machine Learning est explicitement lié au Big Data, étant donné que pour apprendre et se développer, les ordinateurs ont besoin de flux de données à analyser, sur lesquelles s’entraîner.
 ### Deep Learning
 Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) est une forme d’intelligence artificielle, dérivée du Machine Learning (apprentissage automatique). Pour comprendre ce qu’est le Deep Learning, il convient donc de comprendre ce qu’est le Machine Learning.
+![ai vs ml vs dl](images/iamldl.png)
+## Machine Learning Vs. Deep Learning
+![mlvsdl](images/mlvsdl.png)
