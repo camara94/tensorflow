@@ -34,3 +34,5 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ## Comment ce réseau peut il faire des prévisions ?
 ![prevision](images/prevision.png)
 ![prediction](images/pred.png)
+## Fonctions d'activations
+![activ](images/fonctionsactivations.png)
