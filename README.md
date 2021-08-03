@@ -23,3 +23,6 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ![ai vs ml vs dl](images/iamldl.png)
 ## Machine Learning Vs. Deep Learning
 ![mlvsdl](images/mlvsdl.png)
+## Application de Deep Learning
+![application de deep learning](images/app1.png)
+![application de deep learning](images/app2.png)
