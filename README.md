@@ -40,3 +40,5 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ![exactivation](images/exactivation.png)
 ## Les poids
 ![poids](images/pois.png)
+## Récapitulons
+![rep](images/recaputilon.png)
