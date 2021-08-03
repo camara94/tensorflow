@@ -30,3 +30,7 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ![application de deep learning](images/app3.png)
 ## Exemple
 ![exemple](images/exemple.png)
+![exemple](images/exemple2.png)
+## Comment ce réseau peut il faire des prévisions ?
+![prevision](images/prevision.png)
+![prediction](images/pred.png)
