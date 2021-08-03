@@ -26,3 +26,6 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ## Application de Deep Learning
 ![application de deep learning](images/app1.png)
 ![application de deep learning](images/app2.png)
+## Le neurone
+![application de deep learning](images/app3.png)
+!
