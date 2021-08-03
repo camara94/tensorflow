@@ -46,3 +46,5 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ![perceptron](images/perceptron.png)
 ## Recapitulons le réseau de neurone
 ![recapitulons](images/recaputilon2.png)
+## Les étapes pour entrainer un réseau de neurone en pratique
+![etape](images/etapes.png)
