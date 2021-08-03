@@ -38,3 +38,5 @@ Le **Deep Learning** ( en Français, la traduction est : apprentissage profond) 
 ![activ](images/fonctionsactivations.png)
 ## Exemple de  fonction d'activation
 ![exactivation](images/exactivation.png)
+## Les poids
+![poids](images/pois.png)
